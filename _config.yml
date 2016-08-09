@@ -2,7 +2,8 @@
 gems:
 #  - jemoji
   - jekyll-paginate
-
+  - jekyll-email-protect
+ 
 # Site settings
 title: "Paulo Gaspar"
 description: > # this means to ignore newlines until "email:"
