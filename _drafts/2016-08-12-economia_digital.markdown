@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "Economia digital como motor para Collaborative Commons"
-date:   2014-11-30 14:34:25
-categories: economia digital
-tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
-published: false
+title:  "Economias Digitais e o Eclipsar do Capitalismo"
+_date:   2016-08-12 15:30:00
+categories: blog
+tags: economia digital
+image: /assets/article_images/2016-08-12-economia_digital/cover.jpg
+image2: /assets/article_images/2016-08-12-economia_digital/cover.jpg
+alternative-title:  "Comunicação digital como motor para economia de bens colaborativos"
 ---
 
+Motivada pelos avanços na computação, a revista Time anteviu em 1983 o aparecimento de uma «Nova economia» propulsionada pela tecnologia. No ano seguinte Steve Jobs largou ao mundo o Macintosh. Na decada seguinte veio o Windows 95, o Google e a publicidade online, o eBay e o retalho online, o Paypal e os pagamentos online. E hoje, o comércio electrónico representa um terço do PIB português, a crescer para [mais de metade até 2020](http://www.acepi.pt/artigoDetalhe.php?idArtigo=91606&idComissao=7).
 
-"Nova economia" dos 90's --> Transição de manufacturing, para serviço
-(https://en.wikipedia.org/wiki/New_economy)
+A «[Nova economia](https://en.wikipedia.org/wiki/New_economy)» veio transitar o modelo baseado em produtos para um baseado em serviços, originando enormes repercussões na produtividade e crescimento de grande parte dos sectores, sobretudo os que mais facilmente adoptaram as novas tecnologias. O que a Times não anteviu foi o fim de um paradigma económico com dois séculos de existência.
+
+Collaborative Commons
+
+
+Hoje, estimativas "2020, o comércio eletrónico represente 54% do PIB"
+(http://observador.pt/especiais/economia-digital-digitalizacao-das-empresas-nao-opcao-inevitabilidade/)
 
 Dissipação e descentralização do acesso a recursos: produção, comunicação, distribuição, venda, na ponta dos dedos
 
