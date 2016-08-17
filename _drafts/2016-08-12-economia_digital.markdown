@@ -35,11 +35,9 @@ Na verdade, vender o que quer que seja hoje em dia apenas depende do produto/ser
 
 O acesso a infraestruturas e tecnologias é tão abundante (e será ainda mais com a IoT) que assiste-se actualmente à democratização da criação de produtos/serviços e rentabilização de bens através da tecnologia, levando ao extremo a optimização dos recursos, e consequentemente minimizando os custos marginais. Tem um quarto livre? Alugue-o no Airbnb. Gosta de andar de carro? Dê umas boleias com o Über. Espaço livre no telhado? Venda electricidade à rede. Quer frequentar um curso? [Cursos abertos online em massa](https://en.wikipedia.org/wiki/Massive_open_online_course).
 
-Tudo é colaborativo, potencializando as economias de escala e a automação para trazer os custos para baixo.
+Tudo é colaborativo, potencializando as economias de escala e a automatização para trazer os custos para baixo. Uma consequência inevitável deste sistema é a aniquilação sistemática de postos de trabalho manuais e repetitivos a favor de tecnologias equivalentes: todos nós estamos familiarizados com as caixas automáticas nos supermercados, portagens, bombas de gasolina e parques de estacionamento. Bares e restaurantes também já começam a ter semelhantes sistemas (ecrãs do McDonalds; tablets com o menu em cada mesa); Bancos (eBanking; [Bitcoints](https://bitcoin.org/en/) para controlo distribuido da banca); 
 
-Quer cortar nos salarios? Substitua trabalhadores por caixas automáticas nos supermercados, portagens e bombas de gasolina.
-
-Exemplos: Musica, Transporte, Hotelaria, Energia (resistencia por falta de avanços, MAS energias renovaveis acessiveis ao consumidor), Finanças (resistencia por infraestrutura demasiado solida e estabelecida, MAS digital currencies, novos bancos online-only), Comunicações
+Comunicações
 
 
 Mas a optimização da produtividade e dos custos com base em tecnologia não teve consequências apenas no comercio de produtos.
