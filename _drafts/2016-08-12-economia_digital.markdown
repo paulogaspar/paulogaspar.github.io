@@ -26,7 +26,7 @@ A produção de música, gravação com qualidade, marketing, distribuição de 
 
 Na verdade, vender o que quer que seja hoje em dia apenas depende do produto/serviço. Não há desculpas.
 
-**Caso de estudo:** Criar nova marca de óculos com design original
+- **Caso de estudo:** Criar nova marca de óculos com design original
 
 1. Os poucos custos necessários para o _bootstrapping_ são obtidos em [crowfunding](https://www.kickstarter.com/) por vez do recurso a empréstimos. Serve também de validação do negócio no mercado.
 2. O design e produção são feitos em casa com uma [impressora 3D](http://www.productchart.com/3d_printers/), ou através de um serviço de impressão 3D.
@@ -37,12 +37,6 @@ Na verdade, vender o que quer que seja hoje em dia apenas depende do produto/ser
 O acesso a infraestruturas e tecnologias é tão abundante (e será ainda mais com a IoT) que assiste-se actualmente à democratização da criação de produtos/serviços e rentabilização de bens através da tecnologia, levando ao extremo a optimização dos recursos, e consequentemente minimizando os custos marginais. Tem um quarto livre? Alugue-o no Airbnb. Gosta de andar de carro? Dê umas boleias com o Über. Espaço livre no telhado? Venda electricidade à rede. Quer frequentar um curso? [Cursos abertos online em massa](https://en.wikipedia.org/wiki/Massive_open_online_course). Precisa testar uma ideia ainda hoje? Coloque 10€ em anúncios no Facebook para atingir milhares.
 
 Tudo é colaborativo, potencializando as economias de escala e a automatização para trazer os custos para baixo. Uma consequência inevitável deste sistema é a aniquilação sistemática de postos de trabalho manuais e repetitivos a favor de tecnologias equivalentes: todos nós estamos familiarizados com as caixas automáticas nos supermercados, portagens, bombas de gasolina e parques de estacionamento. Restauração também já começa a ter semelhantes sistemas (ecrãs do McDonalds; tablets de menu em cada mesa; [encomendar online](http://www.nomenu.pt/)); Bancos (eBanking; [Bitcoints](https://bitcoin.org/en/) para controlo distribuido da banca); Retalho (online já representa [7% das vendas](http://www.himediagroup.com/en/blog/tag/e-commerce-en/) na europa).
-
-Comunicações
-
-
-Mas a optimização da produtividade e dos custos com base em tecnologia não teve consequências apenas no comercio de produtos.
-Também tem outras consequências, como o fim dos trabalhos mecanizados: portagens, caixas automáticas nos supermercados
 
 
 ### Custo marginal zero, e o fim de uma era ###
