@@ -27,7 +27,7 @@ baseurl: ""
 twitter_handle: '@paulomgaspar'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: paulogaspar
 
 show_drafts: null
 lsi: false
