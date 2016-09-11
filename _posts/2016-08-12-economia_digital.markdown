@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Economias Digitais e o Eclipsar do Capitalismo"
-date:   2016-09-09 15:30:00
+_date:   2016-08-12 15:30:00
 categories: blog
 tags: economia digital
 image: /assets/article_images/2016-08-12-economia_digital/cover.jpg
@@ -48,7 +48,7 @@ O acesso a infraestruturas e tecnologias é tão abundante (e será ainda mais c
 
 Tudo é colaborativo, distribuido, ou incrivelmente acessivel, potencializando as economias de escala e a automatização para trazer os custos para baixo. Este efeito é incrivelmente visivel em em alguns sectores, por exemplo, o do [armazenamento de dados](http://www.mkomo.com/cost-per-gigabyte), onde o preço por byte tem vindo a descer para quase-zero, ou o editorial, onde a criação e distribuição de informação e conteúdos é tão ubíqua que o preço do seu acesso está a [tornar-se irrelevante](https://en.wikipedia.org/wiki/Decline_of_newspapers) (há um editor atrás de cada teclado).
 
-![Custo por gigabyte desde 1980. De notar a escala logaritmica.](/assets/article_images/2016-08-12-economia_digital/bytecost.jpg){:width="70%" .center-image}
+![Custo por gigabyte desde 1980. De notar a escala logaritmica.](/assets/article_images/2016-08-12-economia_digital/bytecost2.jpg){:width="70%" .center-image}
 
 Uma consequência inevitável deste sistema é a aniquilação sistemática de postos de trabalho mecanizados a favor de tecnologias equivalentes: já estamos familiarizados com as caixas automáticas nos supermercados, portagens, bombas de gasolina e parques de estacionamento. Restauração também começa a ter semelhantes sistemas (ecrãs do McDonalds; tablets de menu em cada mesa; [encomendar online](http://www.nomenu.pt/)); Bancos igualmente (eBanking; [Bitcoints](https://bitcoin.org/en/) para controlo distribuido da banca); Retalho (online já representa [7% das vendas](http://www.himediagroup.com/en/blog/tag/e-commerce-en/) na europa); Industria automóvel (de longe [a mais robotizada](http://www.ifr.org/industrial-robots/statistics/)). À medida que a automatização avança, os empregos mecanizados vão perdendo terreno para os intelectuais. E mesmo esses já sucumbem à inteligencia artificial, como são exemplo os corretores de bolsa.
 
