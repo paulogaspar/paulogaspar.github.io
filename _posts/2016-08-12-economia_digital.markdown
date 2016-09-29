@@ -10,7 +10,7 @@ image2: /assets/article_images/2016-08-12-economia_digital/cover.jpg
 ---
 
 > ##TL; DR##
-  As novas tecnologias facilitaram de tal modo a criação e distribuição de novos bens, serviços e mais tecnologias, que o custo marginal de criar novos produtos é negligenciável. O acesso e custo da tecnologia é tão baixo que a inovação deixou de ser um extra apeticivel para ser uma obrigação. Os príncipios do capitalismo estão assim a dar lugar ao novo sistema de bens colaborativos.
+> As novas tecnologias facilitaram de tal modo a criação e distribuição de novos bens, serviços e mais tecnologias, que o custo marginal de criar novos produtos é negligenciável. O acesso e custo da tecnologia é tão baixo que a inovação deixou de ser um extra apeticivel para ser uma obrigação. Os príncipios do capitalismo estão assim a dar lugar ao novo sistema de bens colaborativos.
 
 Motivada pelos avanços na computação, a revista Time anteviu em 1983 o aparecimento de uma «Nova economia» propulsionada pela tecnologia. No ano seguinte Steve Jobs largou ao mundo o Macintosh. Na decada seguinte veio o Windows 95 e a navegação online, o Google e a publicidade online, o eBay e o retalho online, o Paypal e os pagamentos online. E hoje, o comércio electrónico representa um terço do PIB português, a crescer para [mais de metade até 2020](http://www.acepi.pt/artigoDetalhe.php?idArtigo=91606&idComissao=7).
 
