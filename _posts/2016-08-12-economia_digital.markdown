@@ -2,7 +2,7 @@
 layout: post
 title:  "Economias Digitais e o Eclipsar do Capitalismo"
 alternative-title:  "Comunicação digital como motor para economia de bens colaborativos"
-_date:   2016-09-12 15:30:00
+_date:   2016-09-29 21:30:00
 categories: blog
 tags: economia digital
 image: /assets/article_images/2016-08-12-economia_digital/cover.jpg
@@ -12,7 +12,7 @@ image2: /assets/article_images/2016-08-12-economia_digital/cover.jpg
 > ##TL; DR##
   As novas tecnologias facilitaram de tal modo a criação e distribuição de novos bens, serviços e mais tecnologias, que o custo marginal de criar novos produtos é negligenciável. O acesso e custo da tecnologia é tão baixo que a inovação deixou de ser um extra apeticivel para ser uma obrigação. Os príncipios do capitalismo estão assim a dar lugar ao novo sistema de bens colaborativos.
 
-Motivada pelos avanços na computação, a revista Time anteviu em 1983 o aparecimento de uma «Nova economia» propulsionada pela tecnologia. No ano seguinte Steve Jobs largou ao mundo o Macintosh. Na decada seguinte veio o Windows 95, o Google e a publicidade online, o eBay e o retalho online, o Paypal e os pagamentos online. E hoje, o comércio electrónico representa um terço do PIB português, a crescer para [mais de metade até 2020](http://www.acepi.pt/artigoDetalhe.php?idArtigo=91606&idComissao=7).
+Motivada pelos avanços na computação, a revista Time anteviu em 1983 o aparecimento de uma «Nova economia» propulsionada pela tecnologia. No ano seguinte Steve Jobs largou ao mundo o Macintosh. Na decada seguinte veio o Windows 95 e a navegação online, o Google e a publicidade online, o eBay e o retalho online, o Paypal e os pagamentos online. E hoje, o comércio electrónico representa um terço do PIB português, a crescer para [mais de metade até 2020](http://www.acepi.pt/artigoDetalhe.php?idArtigo=91606&idComissao=7).
 
 
 ![](/assets/article_images/2016-08-12-economia_digital/time.jpg){:height="200px" .absolute-left-image}
@@ -33,7 +33,7 @@ details summary::-webkit-details-marker {
 </style>
 
 <details>
-<summary>{% capture collapsabletitle %}&nbsp;&nbsp;&nbsp;&nbsp;&#9658; **Na prática:** Criar nova marca de óculos com design original.{% endcapture %}{{ collapsabletitle | markdownify }}</summary>
+<summary>{% capture collapsabletitle %}&nbsp;&nbsp;&nbsp;&nbsp;&#9658; **Mais:** Criar nova marca de óculos com design original.{% endcapture %}{{ collapsabletitle | markdownify }}</summary>
 {% capture collapsablecontent %}
 1. Os poucos custos necessários para o _bootstrapping_ são obtidos em [crowfunding](https://www.kickstarter.com/) por vez do recurso a empréstimos. Serve também de validação do negócio no mercado.
 2. O design e produção são feitos em casa com uma [impressora 3D](http://www.productchart.com/3d_printers/), ou através de um serviço de impressão 3D.
@@ -60,12 +60,12 @@ Uma consequência inevitável deste sistema é a aniquilação sistemática de p
 >
 > [The Zero Marginal Cost Society](https://www.amazon.com/Zero-Marginal-Cost-Society-Collaborative/dp/1137280115)
 
-O que não era esperado é uma redução dos [custos marginais](https://en.wikipedia.org/wiki/Marginal_cost) quase até à nulidade, tornando os produtos e serviços praticamente gratuitos e disponiveis em abundancia. Como resultado, a produção com o intuito de lucrar está a dar lugar à produção utilitária e ao acesso a recursos, isto é, como não existe escassês os bens deixaram de ser valorizados com base nessa dimensão e a sua procura passou a ser determinada pela utilidade prática real para os clientes e consumidores, assim como a facilidade de acesso e aquisição. É uma prática diametralmente oposta ao [capitalismo](https://en.wikipedia.org/wiki/Capitalism#Characteristics), já que este assenta na produção para acumulação de lucros, produção privada pertencente aos donos do capital / minimização da produção caseira, venda sujeita às leis de mercado / procura pela maximização do valor de mercado em vez do valor utilitário, e trabalho assalariado.
+O que não era esperado é uma redução dos [custos marginais](https://en.wikipedia.org/wiki/Marginal_cost) quase até à nulidade, tornando os produtos e serviços praticamente gratuitos e disponiveis em abundancia. Como resultado, a produção com o intuito de lucrar está a dar lugar à produção utilitária e ao acesso a recursos, isto é, como não existe escassês os bens deixaram de ser valorizados com base nessa dimensão e a sua procura passou a ser determinada pela utilidade prática real para os clientes e consumidores, assim como a facilidade de acesso e aquisição. É uma prática diametralmente oposta ao [capitalismo](https://en.wikipedia.org/wiki/Capitalism#Characteristics), já que este assenta na venda sujeita às leis de mercado / procura pela maximização do valor de mercado em vez do valor utilitário. A separação entre as entidades do Capitalista e Proletário também se torna difusa com a democratização do acesso à criação e venda, em oposição (num sistema capistalista) ao acesso exclusivo e privado do Capitalista aos meios de produção e incentivo à minimização da produção caseira.
 
-Até aos anos 90 havia escarcidade no acesso a bens e serviços. Fast-foward para 2016 e se amanhã o Samsung Galaxy S6 deixasse de existir o que aconteceria? Pouco ou nada, existem milhares de produtos semelhantes que se esmagam em concorrência diariamente: há abundância na aquisição! Não é o factor concorrência que surge como novidade - esse é natural às economias há décadas - é o factor rapidez de replicação, distribuição e comunicação de novos produtos. A facilidade de criação e replicação atingiu uma magnitude tão massiva que há empresas inteiras dedicadas a [replicar modelos de negócio](http://www.nytimes.com/2014/02/28/technology/copycat-business-model-generates-genuine-global-success-for-start-up-incubator.html)) de sucesso, como é o caso da alemã Rocket-Internet que criou, por exemplo, a Zalando como uma réplica do modelo da americana Zappos; e até economias inteiras, como é o caso da Chinesa.
+Até aos anos 90 havia escarcidade no acesso a bens e serviços. Fast-foward para 2016 e se amanhã o Samsung Galaxy S6 deixasse de existir o que aconteceria? Pouco ou nada, existem milhares de produtos semelhantes que se esmagam em concorrência diariamente: há abundância na aquisição! E não é o factor concorrência que surge como novidade - esse é natural às economias há décadas - é o factor rapidez de replicação, distribuição e comunicação de novos produtos. A facilidade de criação e replicação atingiu uma magnitude tão massiva que há empresas inteiras dedicadas a [replicar modelos de negócio](http://www.nytimes.com/2014/02/28/technology/copycat-business-model-generates-genuine-global-success-for-start-up-incubator.html)) de sucesso, como é o caso da alemã Rocket-Internet que criou, por exemplo, a Zalando como uma réplica do modelo da americana Zappos; e até economias inteiras, como é o caso da Chinesa.
 
 <details>
-<summary>{% capture collapsabletitle %}&nbsp;&nbsp;&nbsp;&nbsp;&#9658; O que é o custo marginal?{% endcapture %}{{ collapsabletitle | markdownify }}</summary>
+<summary>{% capture collapsabletitle %}&nbsp;&nbsp;&nbsp;&nbsp;&#9658; **Mais:** O que é o custo marginal?{% endcapture %}{{ collapsabletitle | markdownify }}</summary>
 {% capture collapsablecontent %}
 
 O custo marginal é o custo de produzir mais uma unidade do produto/serviço vendido, excluindo os custos fixos (materiais, etc). Á medida que a minha hipotética fábrica de telemóveis produz mais e mais unidades, talvez precise de construir um novo armazém, e esse custo pertence ao custo marginal da produção de cada nova unidade. 
@@ -78,17 +78,17 @@ O custo marginal é o custo de produzir mais uma unidade do produto/serviço ven
 
 Produzir e atingir o público mundial é agora trivial para qualquer pessoa numa economia desenvolvida. Enquanto a eficiência e produtividade crescem monotonicamente e os custos marginais decrescem com a mesma cadência, o [mercado de competição baseado em lucros](https://medium.com/basic-income/post-capitalism-rise-of-the-collaborative-commons-62b0160a7048) vai deixando de ser relevante. Esse mercado é uma pedra basilar do capitalismo.
 
+Numa economia onde qualquer invenção pode ser fácil e rápidamente reproduzida, a inovação desempenha um papel crucial no panorama competitivo. A fórmula de sucesso alia inovação, utilidade e acessibilidade, com um mindset orientado à tendência de democratização dos produtos e serviços.
 
-### O que sobrevive? ###
-
-Num mundo onde qualquer invenção pode ser facil e rapidamente reproduzida, a inovação joga um papel cada vez mais importante no panorama competitivo. A fórmula de sucesso alia inovação, utilidade e acessibilidade. Do mesmo modo que ser um músico apenas depende da qualidade e originalidade da música, comercializar no paradigma pós-capitalismo vai apenas depender da utilidade e diferenciação dos produtos (não factorizando o efeito do marketing, de todo) e da facilidade com que chega às massas ou é utilizado por elas.
+---
 
 Mais leitura:
 
+* [The End of the Capitalist Era, and What Comes Next](http://www.huffingtonpost.com/jeremy-rifkin/collaborative-commons-zero-marginal-cost-society_b_5064767.html)
 * [The Obsolecence of capitalism](https://medium.com/@cjdew/the-obsolescence-of-capitalism-340ad9fafd8f#.6zw4k0lbx)
 * [Post Capitalism Rise of the Collaborative Commons](https://medium.com/basic-income/post-capitalism-rise-of-the-collaborative-commons-62b0160a7048#.djnam8f9a)
 * [The collaborative commons economy](http://bigthink.com/think-tank/the-collaborative-commons-economy)
-* [Zero Marginal-Cost Society](https://www.amazon.com/Zero-Marginal-Cost-Society-Collaborative/dp/1137280115)
+
 
 
 
