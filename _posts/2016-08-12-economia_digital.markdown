@@ -6,7 +6,8 @@ _date:   2016-09-29 21:30:00
 categories: blog
 tags: economia digital
 image: /assets/article_images/2016-08-12-economia_digital/cover.jpg
-image2: /assets/article_images/2016-08-12-economia_digital/cover.jpg
+image2: /assets/article_images/2016-08-12-economia_digital/cover_mobile.jpg
+published: true
 ---
 
 > ##TL; DR##

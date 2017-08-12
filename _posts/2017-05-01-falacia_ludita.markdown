@@ -6,11 +6,12 @@ _date:   2016-12-26 21:00:00
 categories: blog
 tags: emprego inteligencia artificial
 image: /assets/article_images/2017-05-01-falacia_ludita/cover.jpg
-image2: /assets/article_images/2017-05-01-falacia_ludita/cover.jpg
+image2: /assets/article_images/2017-05-01-falacia_ludita/cover_mobile.jpg
+published: false
 ---
 
 > ##TL; DR##
-> Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+> bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Luddite.jpg/400px-Luddite.jpg){:height="250px" .absolute-left-image}
