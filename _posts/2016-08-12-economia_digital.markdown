@@ -2,7 +2,7 @@
 layout: post
 title:  "Economias Digitais e o Eclipsar do Capitalismo"
 alternative-title:  "Comunicação digital como motor para economia de bens colaborativos"
-_date:   2016-09-29 21:30:00
+date:   2016-08-12 21:30:00
 categories: blog
 tags: economia digital
 image: /assets/article_images/2016-08-12-economia_digital/cover.jpg

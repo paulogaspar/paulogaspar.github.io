@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "A Falácia Ludita e a Economia Autónoma"
+title:  "A Falácia Ludita e a Eficiência Autónoma"
 alternative-title:  ""
-_date:   2016-12-26 21:00:00
+date:   2017-08-01 21:00:00
 categories: blog
-tags: emprego inteligencia artificial
+tags: emprego inteligencia&nbspartificial
 image: /assets/article_images/2017-05-01-falacia_ludita/cover.jpg
 image2: /assets/article_images/2017-05-01-falacia_ludita/cover_mobile.jpg
 published: true
