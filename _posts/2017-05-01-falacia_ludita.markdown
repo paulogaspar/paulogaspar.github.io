@@ -12,7 +12,7 @@ excerpt: Revive-se hoje a preocupação de que as aplicações tecnológicas vã
 ---
 
 
-> ##TL; DR##
+> <h2>TL; DR</h2>
 > Revive-se hoje a preocupação de que as aplicações tecnológicas vão eliminar empregos, à semelhança de outras épocas. No entanto o papel da inovação é o de aumentar a produtividade e consequentemente a qualidade de vida. Se esse aumento de produtividade for superior à capacidade de gerar empregos, ou passar os limites humanos, o desemprego estrutural poderá ocorrer. É cada vez mais importante aplicar medidas de requalificação e assumir uma alteração de paradigma.
 
 
