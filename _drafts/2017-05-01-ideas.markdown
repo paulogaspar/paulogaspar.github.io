@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "A Falácia Ludita e a Economia Autónoma"
+alternative-title:  ""
+_date:   2016-12-26 21:00:00
+categories: blog
+tags: emprego inteligencia artificial
+image: /assets/article_images/2017-05-01-falacia_ludita/cover.jpg
+image2: /assets/article_images/2017-05-01-falacia_ludita/cover_mobile.jpg
+published: true
+---
+
+
+> ##TL; DR##
+> bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+
+
+
+A terceira era das ANNs e a vinda da singularidade 
+
+O que acontece quando as ANNs superarem as capacidades humanas.
+
+O emprego deixa de ser necessário, a intelectualidade deixa de ser necessária, ao longo dos anos as pessoas vão interessar-se cada vez menos pela escolaridade, já que não tem aplicação util. O entretenimento vai reinar, assim como as depressões (polarização das emoções humanas).
+
+
+
+https://www.youtube.com/watch?v=OQgJYWqF1xo
+https://www.technologyreview.com/s/515926/how-technology-is-destroying-jobs/
+
+
+https://medium.com/the-wtf-economy/do-more-what-amazon-teaches-us-about-ai-and-the-jobless-future-8051b19a66af
+https://youtu.be/WSKi8HfcxEk
+http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
+
+http://s3.observador.pt/wp-content/uploads/2017/05/10072940/imagem2.jpg
+
+
+Tabela com lista de trabalhos e respectivos numeros de trabalhadores. Maioria dos primeiros é manual.
+
+Robot Baxter... general purpose
+
+Creative thinking: geração automática de música, arte
+
+Cost, Time, Accuracy
+
+"Não precisam ser perfeitos, apenas melhores que os humanos"
+
+Machines don't perform jobs, they automate tasks."
+
+### O apocalipse da singularidade ###
+
+"Chess was considered the quintessential demonstration of human inteligence."
+1997 Deep Blue vs Garry Kasparov
+
+Muita gente se preocupou com a vinda da inteligencia artificial, mas na realidade apenas provava que uma série de algoritmos foram coordenados muito bem para resolver um problema. Uma calculadora já o fazia também há muito tempo.
+
+Carros auto-conduzidos fazem exactamente isso. Conduzem carros. Não constroem pontes, não projectam idas à lua, e não plantam cebolas.
+
+"e não a usurpação da primacia humana"
+
+### Titulo titulo titulo titulo titulo titulo ###
+
+
+Referências:
+https://www.youtube.com/watch?v=7Pq-S557XQU
+https://www.youtube.com/watch?v=WMF-Z74C1QE
+http://robosvaoroubarteuempregomasok.blogspot.pt/2014/11/parte-1-cap-2-o-falacia-de-luddite.html
+https://www.youtube.com/watch?v=JiiP5ROnzw8
+https://economics.mit.edu/files/1909
+https://www.linkedin.com/pulse/5-jobs-robots-take-last-shelly-palmer
+https://fee.org/articles/the-industrial-revolution-working-class-poverty-or-prosperity/
+https://en.wikipedia.org/wiki/The_Singularity_Is_Near
+https://en.wikipedia.org/wiki/Technological_unemployment
+https://www.goodreads.com/book/show/12952273-race-against-the-machine
+https://econfuture.wordpress.com/2011/06/07/productivity-and-employment-a-structural-change/
+http://jaredbernsteinblog.com/the-challenge-of-long-term-job-growth-two-big-hints/
+http://time.com/4621185/worker-productivity-countries/
+http://observador.pt/especiais/manuela-veloso-a-inteligencia-artificial-e-um-alerta-para-a-humanidade/
+https://www.euractiv.com/section/social-europe-jobs/opinion/the-uberisation-of-the-workplace-is-a-new-revolution/

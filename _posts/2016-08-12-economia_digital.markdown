@@ -8,6 +8,7 @@ tags: economia digital
 image: /assets/article_images/2016-08-12-economia_digital/cover.jpg
 image2: /assets/article_images/2016-08-12-economia_digital/cover_mobile.jpg
 published: true
+excerpt: As novas tecnologias facilitaram de tal modo a criação e distribuição de novos bens, serviços e mais tecnologias, que o custo marginal de criar novos produtos é negligenciável. O acesso e custo da tecnologia é tão baixo que a inovação deixou de ser um extra apetecível para ser uma obrigação. Os princípios do capitalismo estão assim a dar lugar ao novo sistema de bens colaborativos.
 ---
 
 > ##TL; DR##
