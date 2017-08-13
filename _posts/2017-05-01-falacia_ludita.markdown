@@ -110,3 +110,5 @@ O paradigma que se viveu durante muitas décadas, onde a educação implicitamen
 , [Article: The Challenge of Long Term Job Growth](http://jaredbernsteinblog.com/the-challenge-of-long-term-job-growth-two-big-hints/)
 , [Article: A inteligência artificial é um alerta](http://observador.pt/especiais/manuela-veloso-a-inteligencia-artificial-e-um-alerta-para-a-humanidade/)
 , [Article: The ‘uberisation’ of the workplace](https://www.euractiv.com/section/social-europe-jobs/opinion/the-uberisation-of-the-workplace-is-a-new-revolution/)
+
+*Um agradecimento a Isabel Saavedra pela revisão e comentários construtivos.*
