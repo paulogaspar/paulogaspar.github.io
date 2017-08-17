@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Falácia Ludita e a Eficiência Autónoma"
+title:  "A Falácia Ludita"
 alternative-title:  ""
 date:   2017-08-01 21:00:00
 categories: blog
